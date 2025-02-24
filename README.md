@@ -120,5 +120,9 @@ python main.py --input_dir /path/to/images
 
 ## 팀원 소개
 SeAH Besteel Juniors 팀이 개발했습니다.
+
+## 라이센스
+MIT License가 적용됩니다.
+
 ---
 ※ 본 프로젝트는 SeAH Besteel의 철강 제품 품질 관리 프로세스 개선을 위해 개발되었습니다.
